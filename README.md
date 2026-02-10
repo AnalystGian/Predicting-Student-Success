@@ -30,8 +30,6 @@ The goal is to transform raw student data into actionable insights that support 
 
 # Scope Limitation
 - The analysis focuses on interpretation, insight generation, and regression modeling
-- Predictive modeling is used to support understanding, not real-time deployment
-- No dashboarding or production deployment is included
 - Results are based on a single dataset and may not generalize to all educational contexts
 
 # Key Findings
